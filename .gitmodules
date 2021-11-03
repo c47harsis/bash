@@ -1,0 +1,6 @@
+[submodule "bash-configure-gitlab-project"]
+	path = bash-configure-gitlab-project
+	url = https://github.com/c47harsis/bash-configure-gitlab-project.git
+[submodule "bash-move-git-repo"]
+	path = bash-move-git-repo
+	url = https://github.com/c47harsis/bash-move-git-repo.git
